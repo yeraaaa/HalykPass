@@ -16,7 +16,7 @@ export default function Hero() {
 
                     </h1>
                     <h3 className='mb-5'>
-                        Halyk makes everyone's day
+                        Halyk makes everyone&apos;s day
                     </h3>
                     <Link href='./chat'>
                         <button className='text-[#006D58] bg-white border-2 border-[#006D58] rounded-md px-6 font-medium py-1 hover:bg-[#006D58] hover:text-white transition-colors duration-300'>
@@ -28,7 +28,3 @@ export default function Hero() {
         </>
     )
 }
-
-
-
-
